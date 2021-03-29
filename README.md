@@ -3,3 +3,4 @@ A chaos game is an intereseting concept in visual art and I desided to experment
 ---
 ##### Sources:
 [wikipedia](https://en.wikipedia.org/wiki/Chaos_game)
+![Alt Animation](scaling_animation.gif)
